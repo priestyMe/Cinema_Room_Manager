@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager (1)/task/Cinema_Room_Manager.Cinema_Room_Manager__1_-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager (1)/task/Cinema_Room_Manager.Cinema_Room_Manager__1_-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager (1)/task/Cinema_Room_Manager.Cinema_Room_Manager__1_-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager (1)/task/Cinema_Room_Manager.Cinema_Room_Manager__1_-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager (1)/task/Cinema_Room_Manager.Cinema_Room_Manager__1_-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager (1)/task/Cinema_Room_Manager.Cinema_Room_Manager__1_-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Cinema_Room_Manager.Problems-Adding_values.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Cinema_Room_Manager.Problems-Adding_values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Cinema_Room_Manager.Problems-Adding_values.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Cinema_Room_Manager.Problems-Adding_values.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Cinema_Room_Manager.Problems-Adding_values.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Cinema_Room_Manager.Problems-Adding_values.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Cinema_Room_Manager.Problems-Get_first_and_last_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Cinema_Room_Manager.Problems-Get_first_and_last_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Cinema_Room_Manager.Problems-Get_first_and_last_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Cinema_Room_Manager.Problems-Get_first_and_last_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Cinema_Room_Manager.Problems-Get_first_and_last_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Cinema_Room_Manager.Problems-Get_first_and_last_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Out of bounds!/Cinema_Room_Manager.Problems-Out_of_bounds!.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Out of bounds!/Cinema_Room_Manager.Problems-Out_of_bounds!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Out of bounds!/Cinema_Room_Manager.Problems-Out_of_bounds!.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Out of bounds!/Cinema_Room_Manager.Problems-Out_of_bounds!.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Out of bounds!/Cinema_Room_Manager.Problems-Out_of_bounds!.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Out of bounds!/Cinema_Room_Manager.Problems-Out_of_bounds!.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
